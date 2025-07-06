@@ -491,5 +491,9 @@
     "CALCOM_SERVICE_ACCOUNT_ENCRYPTION_KEY",
     "CAL_VIDEO_RECORDING_TOKEN_SECRET",
     "ORGANIZER_EMAIL_EXEMPT_DOMAINS"
+  ],
+  "ignore": [
+    "example-apps/credential-sync",
+    "packages/timeless-ui-docs"
   ]
 }
