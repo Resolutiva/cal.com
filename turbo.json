@@ -494,6 +494,7 @@
   ],
   "ignore": [
     "example-apps/credential-sync",
-    "packages/timeless-ui-docs"
+    "packages/timeless-ui-docs",
+     "apps/ui-playground"
   ]
 }
